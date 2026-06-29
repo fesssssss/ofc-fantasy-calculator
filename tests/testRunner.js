@@ -1,0 +1,1 @@
+export function test(n,f){try{f();console.log('OK',n)}catch(e){console.error('FAIL',n,e)}}
