@@ -1,1 +1,0 @@
-import {parseCards} from './core/parser.js'; console.log(parseCards('AS KH J1'));
